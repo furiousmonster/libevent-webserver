@@ -1,0 +1,7 @@
+2021-08-12 14:49:58 客户端(127.0.0.1)已连接。
+2021-08-12 14:49:58 接收：<bizcode>1</bizcode><username>wucz</username><password>p@ssw0rd</password>
+2021-08-12 14:49:58 发送：<retcode>0</retcode><message>成功。</message>
+2021-08-12 14:49:58 客户端已断开。
+2021-08-12 14:49:58 子进程退出。
+2021-08-12 14:53:13 catching the signal(2).
+2021-08-12 14:53:13 父进程退出。
